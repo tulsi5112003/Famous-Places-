@@ -1,0 +1,49 @@
+table{
+    border: 2px solid rgb(93, 90, 245);
+    background-color: #0015ff5f;
+    
+
+}
+thead,td{
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 2px;
+    text-align: center;
+    
+  
+    
+}
+thead{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+    color:#ffffff ;
+
+}
+.t{
+    color: #ffffffe5;
+}
+a,h1{
+    color: #0018a2;
+}
+body{
+    align-content: center;
+    background-color: #0026ff53;
+}
+
+.d1{
+    margin: 00px;
+    align-items: center;
+    border: 5px solid white;
+    padding: 50px;
+}
+.d2{
+display: flex;
+    border: 5px solid white;
+    margin: auto;
+    padding:groove5px;
+    width:800px
+}
+img{
+    
+}
